@@ -18,4 +18,5 @@ for i in range(length):
         d[list_of_words[i]] = y
         y = 0
 
+
 print(d)
